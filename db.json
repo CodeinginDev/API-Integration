@@ -1,0 +1,49 @@
+{
+  "user": [
+    {
+      "id": "c28e",
+      "name": "Aanand Jha",
+      "email": "aanandj12@gmail.co",
+      "age": "23",
+      "phoneNo": "98998766677",
+      "nationality": "Nepali",
+      "country": "Nepal",
+      "address": "khokana",
+      "martialStatus": "Unmarried"
+    },
+    {
+      "id": "e605",
+      "name": "Milan Rokaya",
+      "email": "milanrokaya23@gmail.com",
+      "age": "25",
+      "phoneNo": "9778766878",
+      "nationality": "American",
+      "country": "America",
+      "address": "Boudhja",
+      "martialStatus": "Married"
+    },
+    {
+      "id": "ebe9",
+      "name": "Bibash Karki",
+      "email": "Bibashkarki34@gmail.com",
+      "age": "",
+      "phoneNo": "",
+      "nationality": "",
+      "country": "",
+      "address": "",
+      "martialStatus": ""
+    },
+    {
+      "id": "2ed1",
+      "name": "sadasdasd",
+      "email": "",
+      "age": "",
+      "phoneNo": "",
+      "nationality": "",
+      "country": "",
+      "address": "",
+      "martialStatus": "",
+      "gender": ""
+    }
+  ]
+}
